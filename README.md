@@ -13,8 +13,8 @@ Make sure you have the following installed:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Mahendra021/weather-app.git
+    cd weather-app
     ```
 
 2. **Install dependencies**:
